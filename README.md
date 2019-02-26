@@ -1,0 +1,2 @@
+# rabbit-test
+Test RabbitAMQ
